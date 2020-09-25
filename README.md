@@ -1,2 +1,1 @@
-# setari-microsoft-teams-recomandate-pentru-scoala-online
-Setari Microsoft Teams recomandate pentru scoala online
+Documentatie https://github.com/alexandru-iulian-constantinescu/setari-microsoft-teams-recomandate-pentru-scoala-online/wiki
